@@ -1,0 +1,31 @@
+yejoon jung, ruchira sharma
+
+1. 16
+
+2. @brunyuriy
+DeveloperTommy
+
+
+3. c2111cc0d37bfde779a317e533d3a5e68b8ed9e3
+
+4. 
+
+52
+
+
+5.
+model.java
+numbers.java
+addnumview.java
+meanview.java
+meadianview.java
+modeview.java
+numbersview.java
+resetview.java
+
+
+6.
+
+Updated README.md
+@rjust
+rjust committed on Oct 31, 2017

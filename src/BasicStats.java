@@ -22,8 +22,8 @@ public class BasicStats {
 
     //Initialize model
     Numbers numbers = new Numbers();
-
-    //Initialize views
+    
+    //Initialize views	
     CountView countView = new CountView();
     MeanView meanView = new MeanView();
     MedianView medianView = new MedianView();
