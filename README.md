@@ -1,6 +1,3 @@
-
-### update for Question 5
-### second update for question 5-5
 # Basic Statistics
 
 Basic Statistics is a Java-based implementation for computing statistics on a set of numbers.
